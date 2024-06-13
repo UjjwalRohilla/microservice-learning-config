@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-ujjwal
+    name: config-prod
 
 eureka:
   instance:
